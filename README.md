@@ -1,0 +1,1 @@
+# statoscope-module-federation-example
